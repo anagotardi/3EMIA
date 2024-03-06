@@ -15,4 +15,10 @@ btn1.addEventListener('click',()=>{
 
     //acidiona o conteúdo ao li
     itemLista.innerHTML = valorDigitado
+
+    //muda o css do item
+    itemLista.style.backgroundColor = 'red'
+
+    //adiciona uma classe ao item
+    itemLista.classList.add(fundo-azul)
 })
