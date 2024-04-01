@@ -11,6 +11,8 @@ function Banner(){
             </ul>
         </nav>
     </header>
+    
+    
     )
 }
 
